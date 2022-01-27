@@ -14,3 +14,5 @@ if(random < 10){
 }
 else console.log('Cường hóa không thành công')
 
+console.log(Math.max(10,15,20,35,-5));
+
