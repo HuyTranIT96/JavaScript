@@ -14,3 +14,7 @@ if(course.coin > 0){
 // use toán tử 3 ngôi
 var result = course.coin > 0 ? `${course.coin} coin` : 'Miễn phí';
 console.log(result);
+
+var a = 1;
+var b = 2;
+var c = a > b ? a : b;
